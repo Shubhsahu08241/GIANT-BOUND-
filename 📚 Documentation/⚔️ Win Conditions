@@ -10,16 +10,24 @@ GIANTBOUND will have clear objectives for both sides, but the exact win conditio
 
 The Giant should have an active goal beyond simply waiting for a timer to end.
 
+Frozen Giant Showdown's **1000 HP / cannon damage** system is preserved as a possible source mechanic for a future mode, but it is **not** the default GIANTBOUND win condition yet.
+
 ## 👤 Tiny Player Side
 
 ❓ Exact objective: To be designed.
 
 Tiny Players should have a clear reason to move, explore, cooperate, and use their scale advantage.
 
+The old parkour → objective area → ranged attack flow is also kept as a possible gameplay structure for a future mode, not as the final universal objective.
+
 ## ⚖️ Design Requirement
 
 Both sides should have meaningful ways to make progress. The final system must avoid making one side's objective passive or automatic.
 
-## 🚫 Legacy Rule
+## 🚫 Not Automatically Carried Forward
 
-The old Frozen Giant rule of "timer expires = Giant wins" is kept only as historical reference and is not automatically used in GIANTBOUND.
+- ⏳ Timer expiration as the only Giant win condition
+- ❤️ 1000 HP as a universal Giant health value
+- 🎯 40 required hits as a universal requirement
+
+These remain source mechanics that can be reused when they fit a specific GIANTBOUND mode.
