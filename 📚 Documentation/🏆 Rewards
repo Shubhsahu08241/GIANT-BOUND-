@@ -1,20 +1,45 @@
 # 🏆 Rewards
 
-## 📌 Status
+## 📌 Reward Philosophy
 
-Rewards are required for GIANTBOUND but the final reward structure has not been designed yet.
+GIANTBOUND should reward replay, skill, teamwork, and good decisions without creating unfair permanent gameplay advantages.
 
-## 🎯 Design Goals
+## 🎁 Match Rewards
 
-Rewards should encourage replay without creating unfair permanent gameplay advantages.
+The original Frozen Giant Showdown used several reward types. GIANTBOUND keeps the useful structure while removing the Christmas-specific currencies and replacing them with its own final economy later.
 
-## ⏳ To Decide
+Possible match rewards:
 
-- 💰 Match currency
-- ⭐ XP / progression
+- 💰 Match Currency
+- ⭐ XP / Progression XP
 - 🏅 Achievements
-- 🎁 Match rewards
-- 🗿 Giant-side rewards
-- 👤 Tiny Player rewards
-- 🎨 Cosmetic rewards
-- 📈 Long-term progression
+- 🎁 Match Reward Items
+- 🎨 Cosmetic Rewards
+- 📈 Long-Term Progression
+
+## 🗿 Giant-Side Rewards
+
+The Giant should receive rewards for active gameplay such as successfully disrupting routes, using powers effectively, and completing the Giant objective.
+
+## 👤 Tiny Player Rewards
+
+Tiny Players should receive rewards for active gameplay such as completing objectives, surviving dangerous sections, helping teammates, and making effective use of their scale advantage.
+
+## 🎯 Temporary Gameplay Items
+
+Frozen Giant Showdown's temporary upgrades are a useful model for GIANTBOUND:
+
+- 🪖 Helmet
+- 👢 Speed Boots
+- 🦘 Double Jump
+- 🛡️ Shield
+- 🎯 Better Aim
+- 🔄 Faster Reload
+
+These should remain match-based or otherwise temporary so they do not become unfair permanent power advantages.
+
+## 🚫 Not Carried Forward
+
+Christmas-specific currencies and event rewards such as Christmas Stars and Candy Canes are not part of the base GIANTBOUND reward system.
+
+The final GIANTBOUND currencies, values, progression rates, and cosmetic catalog still need to be designed.
