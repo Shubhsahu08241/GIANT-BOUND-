@@ -2,24 +2,53 @@
 
 ## 🗿 Giant Role
 
-The Giant is not simply a large enemy. The Giant can function as part of the level itself.
+The Giant is not simply a large enemy. The Giant can function as part of the level itself and can actively reshape routes used by Tiny Players.
 
-## ⚡ Giant Abilities
+## ⚡ Giant Power System
 
-The Giant will have unique powers that are different from Tiny Players.
+The original Frozen Giant Showdown established a strong Giant power system. GIANTBOUND keeps the gameplay functions while allowing the theme and exact balance to change.
 
-## 🪤 Giant Obstacles
+### 🪤 Route-Changing Powers
 
-The Giant can place obstacles/traps along routes used by Tiny Players. The exact obstacle list is not finalized yet.
+- 🧱 Giant Wall — blocks or redirects a route.
+- 🧊 Slippery Surface — makes an area harder to cross.
+- 🌬️ Wind Blast — pushes Tiny Players or changes movement.
+- ❄️ Freeze Zone — creates a dangerous area that limits movement.
+- 🗡️ Hazard Spikes — creates a temporary hazard.
+- 🌨️ Storm — reduces visibility and makes navigation harder.
+- 🌉 Bridge Disruption — interferes with important crossings.
+- 🧊 Moving Blocks — changes the route or timing of parkour.
+
+These are adapted from Frozen Giant Showdown rather than being locked to its Christmas/ice theme.
+
+## ⚡ Temporary Giant Powers
+
+The Giant can also have short-duration powers that create sudden pressure:
+
+- 🥶 Freeze Players — briefly limits movement.
+- 🧊 Global Slippery — temporarily changes movement across an area.
+- 🌨️ Giant Storm — creates a large visibility/movement challenge.
+- 🧱 Giant Wall — quickly creates a major route change.
+- ❄️ Blizzard — stronger storm-style disruption.
+- 🪤 Hazard Trap — places a surprise danger.
+- 🌪️ Tornado — creates strong movement disruption.
+
+Exact durations, cooldowns, costs, and limits will be balanced during testing.
+
+## 💰 Giant Resource System
+
+Frozen Giant Showdown used Ice Tokens to let the Giant buy obstacles. GIANTBOUND keeps the useful idea of a **limited Giant resource economy**.
+
+The Giant should earn/spend a match resource to decide when and where to use powers instead of placing everything for free.
 
 ## 🎯 Design Goal
 
-Giant abilities should create interesting decisions and route changes without making Tiny Players feel helpless.
+Giant abilities should create interesting decisions and route changes without making Tiny Players feel helpless. The Giant should feel powerful because it controls the environment, not because Tiny Players have no counterplay.
 
-## ⏳ Open Decisions
+## ⏳ Still To Finalize
 
 - 🏆 Exact Giant objective
-- ⚡ Final Giant powers
-- 🪤 Final obstacle/trap system
-- 💰 How the Giant earns or spends resources
+- 💰 Exact resource name and earning rules
+- ⚡ Final power costs, cooldowns, and limits
+- 🪤 Final obstacle/trap placement rules
 - ⚖️ Balance between Giant power and Tiny Player counterplay
