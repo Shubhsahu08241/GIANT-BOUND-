@@ -12,8 +12,31 @@ One side controls a Giant, while the other side controls Tiny Players. The Giant
 - 👤 Tiny Players must use their small size intelligently.
 - ⚡ Both sides have different powers and abilities.
 - 🪤 The Giant can place obstacles and traps to change the route.
+- 🧗 Parkour and environmental movement are major parts of the experience.
 - 🗺️ The concept can expand into many maps and game modes.
 - 🎮 Classic Mode is planned as a core mode.
+
+## 🧊 Frozen Giant Showdown → GIANTBOUND
+
+Frozen Giant Showdown is the original gameplay source for several GIANTBOUND systems. Useful mechanics are being **adapted**, not blindly copied as final design.
+
+### ✅ Mechanics carried forward as a starting pool
+
+- 🪤 Giant route-changing obstacles and powers
+- 💰 Limited Giant resource spending for powers
+- 🧰 Temporary Tiny Player upgrades
+- 🧗 Parkour hazards and moving traversal elements
+- 🎁 Lucky temporary items
+- ❤️ Short respawn after non-lethal falls as a baseline
+- 🌨️ Visibility/movement disruption effects
+- 🔔 Temporary counter-power ideas that can disable or interrupt Giant abilities
+
+### 🚫 Explicitly not carried forward
+
+- 🤖 Buddy Rescue system
+- 🎄 Christmas-specific theme/currencies as the base game system
+
+The exact mechanics, names, visuals, numbers, and balance can be redesigned for GIANTBOUND.
 
 ## 🧠 Design Principle
 
@@ -21,13 +44,10 @@ The Giant-vs-Tiny scale difference must remain the game's strongest identity. Su
 
 ## 🔄 Current Design Status
 
-- 🤖 Buddy Rescue: **Removed**
-- 🏆 Rewards: **Must be designed**
+- 🗿 Giant System: **Core power/obstacle pool added from Frozen Giant Showdown**
+- 👤 Tiny Player System: **Core upgrades/parkour pool added from Frozen Giant Showdown**
+- 🏆 Rewards: **Base reward structure added; final economy still needed**
 - ⚔️ Giant Win Condition: **Not finalized**
 - 👤 Tiny Player Win Condition: **Not finalized**
 - 🗺️ Maps: **To be designed**
 - 🎮 Game Modes: **To be designed**
-
-## 📌 Important Rule
-
-The old Frozen Giant Showdown concept is being used as a reference/base only. Its systems are not automatically final for GIANTBOUND. Each mechanic will be reviewed and either kept, changed, or removed.
