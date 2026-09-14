@@ -4,23 +4,55 @@
 
 Tiny Players experience the Giant at a completely different scale. Their small size is a gameplay advantage as well as a challenge.
 
-## 🧰 Gadgets & Powers
+## 🧰 Gadgets & Temporary Upgrades
 
-Tiny Players can use gadgets and powers to navigate, survive, counter Giant actions, and complete objectives. The exact list is not finalized.
+Frozen Giant Showdown established a temporary upgrade system that fits GIANTBOUND well. These upgrades should help Tiny Players survive, move, and counter Giant pressure without becoming permanent pay-to-win advantages.
 
-## 🧗 Movement Possibilities
+### 🛠️ Adapted Upgrade Pool
 
-Potential gameplay can include navigating around the Giant, climbing sections of the Giant, using routes, avoiding hazards, and exploiting the environment.
+- 🪖 Helmet — improves protection against hazards.
+- 👢 Speed Boots — temporarily improves movement speed.
+- 🦘 Double Jump — adds an extra jump for traversal.
+- 🛡️ Shield — provides temporary protection.
+- 🎯 Better Aim — improves accuracy with ranged/objective tools when a mode uses them.
+- 🔄 Faster Reload — reduces reload time for compatible tools.
+
+The exact effects can change depending on the final game mode.
+
+## 🎁 Lucky Items
+
+A limited lucky-item system can appear during a match. Rewards may include temporary movement boosts, shields, extra jumps, or other short-term advantages.
+
+Lucky items should create exciting moments without deciding the whole match by themselves.
+
+## 🧗 Movement & Parkour
+
+The Frozen Giant Showdown parkour system provides the starting movement pool for GIANTBOUND:
+
+- 🧊 Moving Platforms
+- 💥 Breaking Bridges
+- 🧊 Slippery Surfaces
+- 🔄 Rotating Platforms
+- ⛷️ Jump Pads
+- 🧱 Environmental Obstacles
+
+GIANTBOUND can move beyond frozen/ice visuals and reuse the same gameplay ideas in different environments.
+
+## ❤️ Respawn Baseline
+
+The original game used a non-elimination fall system: falling from the parkour area caused a short respawn at the start instead of removing the player from the match.
+
+GIANTBOUND can use this as the initial baseline, with the exact respawn time and conditions to be tested.
 
 ## 🎯 Design Goal
 
-Tiny Players should feel clever and capable, not simply weak because they are small.
+Tiny Players should feel clever and capable, not simply weak because they are small. Their advantage comes from movement, scale, teamwork, gadgets, and finding routes around the Giant's actions.
 
-## ⏳ Open Decisions
+## ⏳ Still To Finalize
 
 - 🏆 Exact Tiny Player objective
-- 🧰 Gadget list
-- ⚡ Tiny Player powers
-- ❤️ Health/respawn rules
+- 🧰 Final gadget/tool list
+- ⚡ Final Tiny Player powers
+- ❤️ Final health/respawn rules
 - 🧗 Climbing rules
 - ⚖️ Counterplay against Giant abilities
