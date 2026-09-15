@@ -1,0 +1,43 @@
+# 🎮 Game Modes
+
+## 🧊 Classic Mode
+
+Classic Mode is the main mode built directly from the original **Frozen Giant Showdown** concept.
+
+The complete original gameplay pool can be used as the foundation for Classic Mode, including:
+
+- 🗿 Giant vs Tiny/Survivor structure
+- ❤️ Giant health and objective structure
+- 💥 Cannon-based Giant damage
+- 🧗 Parkour progression
+- 🪤 Giant environmental obstacles
+- ⚡ Giant powers
+- 🧰 Tiny temporary upgrades
+- 🎁 Lucky items
+- 🌨️ Visibility and movement disruption
+- 🔔 Counter-power concepts
+- ❤️ Short respawn after non-lethal falls
+
+The exact implementation will be integrated with GIANTBOUND's lobby, map, customization, and reward systems during later design work.
+
+## 🔮 Future Modes
+
+GIANTBOUND is intended to support many modes in the future. A mode can change objectives, rules, powers, progression, or match structure while still using the same Giant/Tiny foundation.
+
+Possible future directions include:
+
+- ⚔️ Giant Hunt
+- 🌲 Survival
+- 🏆 Team Battle
+- 🎉 Special Event Modes
+- 💡 Completely new original modes
+
+These are ideas only and are not finalized.
+
+## 🔗 Mode and Map Independence
+
+A mode should not be permanently tied to one map.
+
+**Any compatible Map → Any compatible Mode**
+
+This allows one map to support several modes and one mode to run across several maps.
