@@ -2,20 +2,33 @@
 
 ## 📌 Reward Philosophy
 
-GIANTBOUND should reward replay, skill, teamwork, and good decisions without creating unfair permanent gameplay advantages.
+GIANTBOUND should reward replay, skill, teamwork, good decisions, and participation without creating unfair permanent gameplay advantages.
 
 ## 🎁 Match Rewards
 
-The original Frozen Giant Showdown used several reward types. GIANTBOUND keeps the useful structure while removing the Christmas-specific currencies and replacing them with its own final economy later.
+The reward system can include:
 
-Possible match rewards:
-
-- 💰 Match Currency
+- 🪙 Coins / Match Currency
 - ⭐ XP / Progression XP
+- 📈 Player Levels and Level Ups
 - 🏅 Achievements
 - 🎁 Match Reward Items
 - 🎨 Cosmetic Rewards
+- 🛍️ Optional Robux-based cosmetic purchases
 - 📈 Long-Term Progression
+
+## 🎨 Customization & Cosmetics
+
+GIANTBOUND can have a large customization system with cosmetic items such as:
+
+- 👕 Character skins
+- 🎭 Visual customization
+- ✨ Effects
+- 🎉 Emotes
+- 🧢 Accessories
+- 🎁 Special/event cosmetics
+
+Cosmetic monetization should focus on appearance and personalization rather than direct gameplay advantage.
 
 ## 🗿 Giant-Side Rewards
 
@@ -25,9 +38,9 @@ The Giant should receive rewards for active gameplay such as successfully disrup
 
 Tiny Players should receive rewards for active gameplay such as completing objectives, surviving dangerous sections, helping teammates, and making effective use of their scale advantage.
 
-## 🎯 Temporary Gameplay Items
+## 🧰 Temporary Gameplay Items
 
-Frozen Giant Showdown's temporary upgrades are a useful model for GIANTBOUND:
+Frozen Giant Showdown's temporary upgrades remain a useful model for match-based gameplay items:
 
 - 🪖 Helmet
 - 👢 Speed Boots
@@ -38,8 +51,10 @@ Frozen Giant Showdown's temporary upgrades are a useful model for GIANTBOUND:
 
 These should remain match-based or otherwise temporary so they do not become unfair permanent power advantages.
 
-## 🚫 Not Carried Forward
+## 🧠 Progression Direction
 
-Christmas-specific currencies and event rewards such as Christmas Stars and Candy Canes are not part of the base GIANTBOUND reward system.
+The player progression system can connect **Matches → XP → Level Up → Rewards/Unlocks**. Exact level requirements, coin values, reward rates, cosmetic catalog, and monetization details are still open for discussion.
 
-The final GIANTBOUND currencies, values, progression rates, and cosmetic catalog still need to be designed.
+## 🚫 Base Economy
+
+Christmas-specific currencies from Frozen Giant Showdown are not automatically the base GIANTBOUND economy. GIANTBOUND can create its own permanent currency and progression structure while still reusing useful reward ideas from the original concept.
