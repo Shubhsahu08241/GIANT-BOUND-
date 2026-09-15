@@ -6,6 +6,22 @@ GIANTBOUND is a Roblox multiplayer game built around one main identity mechanic:
 
 One side controls a Giant, while the other side controls Tiny Players. The Giant can feel like a moving world/level, while Tiny Players navigate, climb, survive, use gadgets, and complete objectives around the Giant.
 
+## 🏠 Shared Lobby & Custom Matches
+
+Players gather in a shared lobby before entering matches. Players can create their own custom lobbies for free and choose match settings.
+
+Current planned lobby limits:
+
+- 👥 Total Players: up to 10
+- 🗿 Giant Players: minimum 1, maximum 5
+- 👤 Tiny Players: all remaining players automatically fill the Tiny side
+- ⏱️ Match Time: minimum 10 minutes, maximum 2 hours
+- 🎮 Mode: host-selected
+- 🗺️ Map: host-selected
+- ⚙️ Additional settings: expandable in the future
+
+Players will also have a large customization system for personalizing their characters.
+
 ## 🎯 Core Vision
 
 - 🗿 A Giant is a major part of the playable environment.
@@ -13,30 +29,31 @@ One side controls a Giant, while the other side controls Tiny Players. The Giant
 - ⚡ Both sides have different powers and abilities.
 - 🪤 The Giant can place obstacles and traps to change the route.
 - 🧗 Parkour and environmental movement are major parts of the experience.
-- 🗺️ The concept can expand into many maps and game modes.
-- 🎮 Classic Mode is planned as a core mode.
+- 🗺️ Maps and 🎮 modes are separate systems and can be reused together.
+- 🧊 Classic Mode is built from the original Frozen Giant Showdown concept.
+- 🔮 Future modes can introduce completely different objectives and rules.
 
 ## 🧊 Frozen Giant Showdown → GIANTBOUND
 
-Frozen Giant Showdown is the original gameplay source for several GIANTBOUND systems. Useful mechanics are being **adapted**, not blindly copied as final design.
+Frozen Giant Showdown is the **original gameplay concept created before GIANTBOUND**. Its mechanics are a major starting pool for GIANTBOUND rather than something to automatically discard.
 
-### ✅ Mechanics carried forward as a starting pool
+Useful systems include:
 
 - 🪤 Giant route-changing obstacles and powers
-- 💰 Limited Giant resource spending for powers
+- 💰 Limited Giant resource spending
 - 🧰 Temporary Tiny Player upgrades
-- 🧗 Parkour hazards and moving traversal elements
+- 🧗 Parkour hazards and moving traversal
 - 🎁 Lucky temporary items
-- ❤️ Short respawn after non-lethal falls as a baseline
-- 🌨️ Visibility/movement disruption effects
-- 🔔 Temporary counter-power ideas that can disable or interrupt Giant abilities
+- ❤️ Short respawn after non-lethal falls
+- 🌨️ Visibility/movement disruption
+- 🔔 Counter-power ideas
+- 💥 Cannon/objective gameplay for Classic Mode
 
-### 🚫 Explicitly not carried forward
+## 🎮 Classic Mode
 
-- 🤖 Buddy Rescue system
-- 🎄 Christmas-specific theme/currencies as the base game system
+Classic Mode is the main mode intended to carry the full Frozen Giant Showdown gameplay concept into GIANTBOUND. Its original Giant objective, Tiny/Survivor objective, Giant HP, cannon damage, parkour, powers, upgrades, lucky items, and related systems will be discussed and integrated as a complete mode.
 
-The exact mechanics, names, visuals, numbers, and balance can be redesigned for GIANTBOUND.
+The exact implementation can be adapted to GIANTBOUND's broader systems without losing the original concept.
 
 ## 🧠 Design Principle
 
@@ -44,10 +61,12 @@ The Giant-vs-Tiny scale difference must remain the game's strongest identity. Su
 
 ## 🔄 Current Design Status
 
-- 🗿 Giant System: **Core power/obstacle pool added from Frozen Giant Showdown**
-- 👤 Tiny Player System: **Core upgrades/parkour pool added from Frozen Giant Showdown**
-- 🏆 Rewards: **Base reward structure added; final economy still needed**
-- ⚔️ Giant Win Condition: **Not finalized**
-- 👤 Tiny Player Win Condition: **Not finalized**
-- 🗺️ Maps: **To be designed**
-- 🎮 Game Modes: **To be designed**
+- 🏠 Lobby System: **Initial custom lobby structure discussed**
+- 🗿 Giant System: **Core power/obstacle pool added**
+- 👤 Tiny Player System: **Core upgrades/parkour pool added**
+- 🗺️ Map System: **Map/mode independence established**
+- 🎮 Game Modes: **Classic Mode established as Frozen Giant Showdown foundation; future modes open**
+- 🏆 Rewards: **Base reward and progression structure discussed**
+- ⚔️ Classic Mode win conditions: **Source concept identified; detailed integration still to discuss**
+- 🗺️ First Map: **Not finalized**
+- 🛠️ First Prototype: **To be discussed later**
