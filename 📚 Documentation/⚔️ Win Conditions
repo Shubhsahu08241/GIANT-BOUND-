@@ -1,33 +1,43 @@
 # ⚔️ Win Conditions
 
-## 🚧 Status: NOT FINAL
+## 🧊 Classic Mode
 
-GIANTBOUND will have clear objectives for both sides, but the exact win conditions are still under discussion.
+Classic Mode will use the original **Frozen Giant Showdown** concept as its complete starting gameplay foundation.
 
-## 🗿 Giant Side
+The source win structure includes:
 
-❓ Exact objective: To be designed.
+- 🗿 Giant Frozen Yeti with 1000 HP
+- 👤 Tiny/Survivor Players completing Frozen Parkour
+- 🎯 Reaching the Cannon Area
+- 💥 Cannon hits dealing 25 damage
+- 🎯 40 successful hits required to reduce 1000 HP to 0
+- ⏳ Time expiration as the original Giant-side win condition
 
-The Giant should have an active goal beyond simply waiting for a timer to end.
+These numbers belong to the Classic Mode source concept and do not automatically become universal rules for every future GIANTBOUND mode.
 
-Frozen Giant Showdown's **1000 HP / cannon damage** system is preserved as a possible source mechanic for a future mode, but it is **not** the default GIANTBOUND win condition yet.
+## 🧊 Classic Mode Gameplay Structure
 
-## 👤 Tiny Player Side
+The Classic Mode flow can use the original sequence:
 
-❓ Exact objective: To be designed.
+**🧗 Frozen Parkour → 🎯 Cannon Area → 💥 Attack Giant → 🏁 Result**
 
-Tiny Players should have a clear reason to move, explore, cooperate, and use their scale advantage.
+The Giant uses environmental control, obstacles, powers, and disruption to make the Tiny/Survivor route harder.
 
-The old parkour → objective area → ranged attack flow is also kept as a possible gameplay structure for a future mode, not as the final universal objective.
+## 🔮 Future Modes
+
+Future modes can have completely different win conditions. GIANTBOUND should not force every mode to use Giant HP, cannon damage, or the same objective.
+
+Possible future modes may use:
+
+- 🎯 Objective completion
+- 🏁 Race/progression
+- ⚔️ Team battles
+- 🛡️ Survival conditions
+- 💥 Boss-style Giant battles
+- 💡 New original win systems
+
+These are discussion directions only.
 
 ## ⚖️ Design Requirement
 
-Both sides should have meaningful ways to make progress. The final system must avoid making one side's objective passive or automatic.
-
-## 🚫 Not Automatically Carried Forward
-
-- ⏳ Timer expiration as the only Giant win condition
-- ❤️ 1000 HP as a universal Giant health value
-- 🎯 40 required hits as a universal requirement
-
-These remain source mechanics that can be reused when they fit a specific GIANTBOUND mode.
+Whatever the mode, both sides should have meaningful gameplay and a clear reason to act. A mode should make the Giant/Tiny relationship the center of its win condition rather than using a passive timer alone.
