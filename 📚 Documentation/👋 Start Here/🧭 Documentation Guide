@@ -1,0 +1,47 @@
+# 🧭 GIANTBOUND Documentation Guide
+
+This folder is the clean starting point for understanding the project.
+
+## 📂 Main Sections
+
+### 👋 Start Here
+The fastest way for a new developer to understand the project, its vision, and how collaboration is expected to work.
+
+### 🎮 Game Overview
+The game's identity, vision, core principles, and overall design status.
+
+### 🗿 Giant System
+Everything currently collected around the Giant role, environmental control, powers, obstacles, and resource decisions.
+
+### 👤 Tiny Player System
+Tiny movement, parkour, temporary upgrades, gadgets, survival ideas, and counterplay.
+
+### ⚔️ Win Conditions
+Possible match objectives and source mechanics. This section is intentionally not fully locked yet.
+
+### 🏆 Rewards
+The reward and progression direction, including match rewards and cosmetics.
+
+### 🧊 Frozen Giant Showdown
+The original gameplay source created before GIANTBOUND. Useful mechanics are preserved here so they can be reused, improved, or redesigned instead of being lost.
+
+## 🧠 Important Design Rule
+
+Not every idea in the repository is final.
+
+A mechanic can be:
+
+- 💡 An idea to discuss
+- 🧪 A mechanic to test
+- 🔒 A finalized design
+- ♻️ A source mechanic being redesigned
+
+The goal is to keep the project organized while leaving room for better ideas and developer feedback.
+
+## 🤝 For a New Developer
+
+Start with:
+
+**🎯 Project Pitch → 🎮 Game Overview → 🗿 Giant System → 👤 Tiny Player System → ⚔️ Win Conditions → 🏆 Rewards**
+
+Then review **🧊 Frozen Giant Showdown** to understand where several of the core mechanics originated.
