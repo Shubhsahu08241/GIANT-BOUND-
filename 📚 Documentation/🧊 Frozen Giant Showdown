@@ -4,9 +4,9 @@
 
 Frozen Giant Showdown is the **original gameplay concept created before GIANTBOUND**.
 
-GIANTBOUND is growing from this foundation. Its useful mechanics are being collected here so they can be reused, improved, combined, or redesigned instead of being lost.
+GIANTBOUND is growing from this foundation. Its mechanics are being collected here so they can be reused, improved, combined, or redesigned instead of being lost.
 
-This file is a source-design archive, while the other documentation files describe how those ideas are being adapted for GIANTBOUND.
+Most importantly, the original concept is planned to become the foundation of **GIANTBOUND Classic Mode**. The source should be treated as a complete gameplay concept, not merely as a list of disconnected old mechanics.
 
 ## 🎄 Original Concept
 
@@ -31,13 +31,11 @@ Survivors completed Frozen Parkour, reached the Cannon Area, entered a cannon, a
 - 💥 Each cannon hit = 25 damage
 - 🎯 40 hits were required to reach 0 HP
 
-These numbers are source mechanics, not universal GIANTBOUND numbers.
+These numbers are source mechanics for Classic Mode and are not universal GIANTBOUND numbers.
 
 ## 🔄 Respawn
 
 Falling into the ice did not eliminate a player. The player respawned at the start after 2 seconds.
-
-This is a useful starting idea for GIANTBOUND parkour, but final respawn rules can change.
 
 ## 🪤 Giant Shop / Environmental Control
 
@@ -71,8 +69,6 @@ The Giant could earn Ice Tokens and buy:
 - 🎯 Better Cannon Aim
 - 🔄 Faster Reload
 
-These were temporary match upgrades rather than permanent gameplay advantages.
-
 ## 🧗 Parkour Mechanics
 
 - 🧊 Moving Ice Platforms
@@ -94,33 +90,33 @@ Snow Storm effects could reduce visibility and make navigation harder.
 
 Santa Bell could disable Giant powers for 10 seconds.
 
-This is a source mechanic for the broader idea of Tiny Players having ways to interrupt or counter Giant abilities.
+This supports the broader GIANTBOUND idea that Tiny Players should have ways to interrupt or counter Giant abilities.
 
 ## 🦌 Reindeer Assist
 
 Could provide a shortcut, speed boost, bridge repair, or event currency.
 
-This is a source mechanic that can inspire future support or utility systems.
+This can inspire future support or utility systems.
 
 ## 🚫 Buddy Rescue
 
-The old concept contained a Buddy Rescue system with temporary team-wide buffs. It is not part of the current GIANTBOUND direction.
+The old concept contained a Buddy Rescue system with temporary team-wide buffs. It is not part of the current GIANTBOUND direction unless it is redesigned for a future mode.
 
 ## ⚔️ Original Win System
 
 The old concept used Yeti HP reaching 0 as the Survivor win condition and time expiration as the Yeti win condition.
 
-GIANTBOUND is **not locked to this system**. New win conditions will be designed separately.
+This structure is now specifically associated with the planned **Classic Mode** foundation, while future GIANTBOUND modes can use different objectives.
 
 ## 🏆 Original Rewards
 
 The old concept included coins, XP, Buddy XP, gift tokens, Christmas stars, candy canes, achievements, and event progress.
 
-GIANTBOUND can reuse the useful reward philosophy while creating its own economy and progression.
+GIANTBOUND can reuse the useful reward philosophy while creating its own economy, levels, cosmetics, and progression.
 
-## 🔁 How This Connects to GIANTBOUND
+## 🔗 How This Connects to GIANTBOUND
 
-The strongest source mechanics already extracted into GIANTBOUND include:
+The complete source pool can feed Classic Mode, including:
 
 - 🪤 Giant environmental control
 - ⚡ Giant temporary powers
@@ -130,6 +126,8 @@ The strongest source mechanics already extracted into GIANTBOUND include:
 - 🎁 Lucky temporary rewards
 - 🌨️ Visibility and movement disruption
 - 🔔 Counter-power concepts
-- ❤️ Short respawn as a possible baseline
+- 🦌 Support/utility concepts
+- 💥 Cannon-based objective gameplay
+- ❤️ Short respawn
 
-The point is not to make GIANTBOUND a copy of Frozen Giant Showdown. The point is to take the strongest original ideas and evolve them into a larger game built around extreme Giant-vs-Tiny scale.
+The goal is to preserve the strongest parts of the original game while integrating them into GIANTBOUND's larger lobby, map, mode, customization, and reward systems.
