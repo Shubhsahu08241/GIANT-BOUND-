@@ -1,0 +1,45 @@
+# 🗺️ Map System
+
+## 🌎 Map Philosophy
+
+GIANTBOUND maps should make the extreme scale difference meaningful. Areas that look normal or manageable to a Giant can become huge traversal challenges for Tiny Players.
+
+## 🧭 Map Variety
+
+A map can contain different environments and routes, such as:
+
+- 🏘️ Settlements
+- 🌲 Forests
+- 🏭 Abandoned structures
+- 🌉 Bridges
+- ⛰️ Rocky areas
+- 🏚️ Buildings and other interactive structures
+
+These are starting examples, not a locked first map.
+
+## 🔀 Multiple Routes
+
+Maps should support alternative routes where possible. If the Giant blocks or changes one path, Tiny Players can look for another solution through movement, climbing, parkour, gadgets, or teamwork.
+
+## 🔗 Map and Mode Independence
+
+Maps and modes are separate systems.
+
+**Any compatible Map → Any compatible Mode**
+
+**Any compatible Mode → Multiple Maps**
+
+A map should not be created only for one mode unless a future special mode specifically requires it.
+
+## 🗿 Scale as Gameplay
+
+The map should not only look large. Its scale should create gameplay:
+
+- A normal object can become a major Tiny Player obstacle.
+- Giant movement can change Tiny Player routes.
+- Buildings and terrain can create climbing and hiding opportunities.
+- Environmental objects can interact with Giant powers.
+
+## 🚧 Current Status
+
+The first map has not been finalized. A smaller prototype map should be designed later after the core mode and objective structure are clearer.
