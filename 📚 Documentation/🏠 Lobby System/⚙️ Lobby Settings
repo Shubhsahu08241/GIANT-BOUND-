@@ -1,0 +1,46 @@
+# 🏠 Lobby System
+
+## 🌎 Shared Lobby
+
+GIANTBOUND will use a shared lobby experience where players can gather before entering a match. The lobby should support the feeling of a social multiplayer game where players can meet, customize themselves, and choose how they want to play.
+
+## 🛠️ Custom Lobby Creation
+
+Players can create their own lobbies for free and choose match settings before starting.
+
+### 👥 Player Settings
+
+- 👥 Total Player Limit: up to 10 players
+- 🗿 Giant Player Limit: minimum 1, maximum 5
+- 👤 Tiny Players: all remaining players automatically become Tiny Players; there is no separate Tiny Player limit setting for the current design
+
+### ⏱️ Match Time
+
+The host can choose how long the match lasts:
+
+- ⏱️ Minimum: 10 minutes
+- ⏱️ Maximum: 2 hours
+
+### 🎮 Other Lobby Settings
+
+The host can choose settings such as:
+
+- 🎮 Mode
+- 🗺️ Map
+- ⚙️ Future match settings
+
+## 🎨 Player Customization
+
+Players should have a large customization system so they can personalize their character before and during their GIANTBOUND experience.
+
+The final customization catalog is still to be designed.
+
+## 🧠 Design Principle
+
+Lobby settings should make matches flexible without making the game difficult to understand. The lobby creates the rules for the match; the selected mode defines the gameplay; the selected map provides the environment.
+
+## 🔗 Important Structure
+
+**Lobby Settings → Mode + Map + Player Limits + Match Time → Match**
+
+The lobby system should be designed so future modes and maps can be added without rebuilding the entire lobby.
